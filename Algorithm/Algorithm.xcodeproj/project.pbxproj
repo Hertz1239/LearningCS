@@ -10,6 +10,8 @@
 		1C198CF61CF83B6B00A352D6 /* Algorithm.h in Headers */ = {isa = PBXBuildFile; fileRef = 1C198CF51CF83B6B00A352D6 /* Algorithm.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1C198CFD1CF83B6B00A352D6 /* Algorithm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C198CF21CF83B6B00A352D6 /* Algorithm.framework */; };
 		1C198D021CF83B6B00A352D6 /* AlgorithmTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C198D011CF83B6B00A352D6 /* AlgorithmTests.m */; };
+		1C198D0F1CF83DA000A352D6 /* Sort.h in Headers */ = {isa = PBXBuildFile; fileRef = 1C198D0D1CF83DA000A352D6 /* Sort.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1C198D101CF83DA000A352D6 /* Sort.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C198D0E1CF83DA000A352D6 /* Sort.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +31,8 @@
 		1C198CFC1CF83B6B00A352D6 /* AlgorithmTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlgorithmTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C198D011CF83B6B00A352D6 /* AlgorithmTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlgorithmTests.m; sourceTree = "<group>"; };
 		1C198D031CF83B6B00A352D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C198D0D1CF83DA000A352D6 /* Sort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sort.h; sourceTree = "<group>"; };
+		1C198D0E1CF83DA000A352D6 /* Sort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sort.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 			children = (
 				1C198CF51CF83B6B00A352D6 /* Algorithm.h */,
 				1C198CF71CF83B6B00A352D6 /* Info.plist */,
+				1C198D0D1CF83DA000A352D6 /* Sort.h */,
+				1C198D0E1CF83DA000A352D6 /* Sort.m */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -93,6 +99,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C198D0F1CF83DA000A352D6 /* Sort.h in Headers */,
 				1C198CF61CF83B6B00A352D6 /* Algorithm.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -195,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C198D101CF83DA000A352D6 /* Sort.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

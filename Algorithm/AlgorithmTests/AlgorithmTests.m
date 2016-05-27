@@ -7,6 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
+#import <Algorithm/Sort.h>
 
 @interface AlgorithmTests : XCTestCase
 
@@ -27,6 +28,15 @@
 - (void)testExample {
     // This is an example of a functional test case.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
+    Sort *s = [[Sort alloc] init];
+    int array[] = {1, 2, 5, 4, 3};
+    int nsize = sizeof(array)/sizeof(array[0]);
+    [s bubbleSortWithArray:array Size:nsize];
+    for(int i = 0; i < nsize; i++) {
+        NSLog(@"%d\t", array[i]);
+    }
+    
+    NSLog(@"\n");
 }
 
 - (void)testPerformanceExample {
