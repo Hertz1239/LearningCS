@@ -2,4 +2,115 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlgorithmTests/AlgorithmTests.m"
+            timestampString = "486034552.805297"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "-testBubbleSort"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlgorithmTests/AlgorithmTests.m"
+            timestampString = "486120698.706333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-testBubbleSort"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AlgorithmTests testExample]"
+                  moduleName = "AlgorithmTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hertz1239/Desktop/workspace/2016/LearningCS/Algorithm/AlgorithmTests/AlgorithmTests.m"
+                  timestampString = "486120411.493278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "358">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AlgorithmTests testExample]"
+                  moduleName = "AlgorithmTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hertz1239/Desktop/workspace/2016/LearningCS/Algorithm/AlgorithmTests/AlgorithmTests.m"
+                  timestampString = "486120411.493763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AlgorithmTests testExample]"
+                  moduleName = "AlgorithmTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hertz1239/Desktop/workspace/2016/LearningCS/Algorithm/AlgorithmTests/AlgorithmTests.m"
+                  timestampString = "486120411.494715"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AlgorithmTests testExample]"
+                  moduleName = "AlgorithmTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hertz1239/Desktop/workspace/2016/LearningCS/Algorithm/AlgorithmTests/AlgorithmTests.m"
+                  timestampString = "486120411.495401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AlgorithmTests testExample]"
+                  moduleName = "AlgorithmTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hertz1239/Desktop/workspace/2016/LearningCS/Algorithm/AlgorithmTests/AlgorithmTests.m"
+                  timestampString = "486120411.49573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
